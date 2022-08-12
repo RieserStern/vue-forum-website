@@ -19,4 +19,3 @@ yarn build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# Vue-forum" 
 "# Vue-forum" 
-"# vue-forum-website" 
